@@ -1,0 +1,41 @@
+{
+    "xueluoanping.vaultterminal.client.SimpleScreen": {
+        "buttonHints": {
+            "MOVE_TO_PLAYER": {
+                "horizontalOffset": 35,
+                "top": -2
+            },
+            "SORT": {
+                "horizontalOffset": 31,
+                "top": -2
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": 32,
+                "top": -2
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": 34,
+                "top": -2
+            },
+            "SHOW_EDITOR": {
+                "top": -7
+            },
+            "SETTINGS": {
+                "horizontalOffset": 15,
+                "top": -22
+            }
+        }
+    },
+    "net.minecraft.client.gui.screens.inventory.CreativeModeInventoryScreen": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 1,
+                "top": -8
+            },
+            "SETTINGS": {
+                "horizontalOffset": 14,
+                "top": -23
+            }
+        }
+    }
+}
